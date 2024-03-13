@@ -1,3 +1,5 @@
+# 求职意向
+  Java 开发工程师
 # 工作经历
 - **塔塔信息技术股份有限公司**
   - 岗位：Java 开发工程师 & Vue 开发工程师
@@ -78,5 +80,12 @@
 - 国家励志奖学金
 - 挑战杯创新创业大赛湖北省二等奖
 - 全国大学生数学建模竞赛湖北省一等奖
+
+# 简历 PDF 预览
+
+<img width="866" alt="image" src="https://github.com/wangshicheng1995/cv/assets/63381207/48552bde-12ba-4c72-8934-702a3fb6fc65">
+<img width="846" alt="image" src="https://github.com/wangshicheng1995/cv/assets/63381207/36fda955-c948-49b9-9595-4931e3ddc747">
+<img width="811" alt="image" src="https://github.com/wangshicheng1995/cv/assets/63381207/41607d70-508a-418c-98f9-9f0a5d5d895b">
+
 
 
